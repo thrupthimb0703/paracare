@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../features/auth/login_screen.dart';
+import 'auth_gate.dart';
 
 class ParaCareApp extends StatelessWidget {
   const ParaCareApp({super.key});
@@ -14,7 +14,7 @@ class ParaCareApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.teal),
         useMaterial3: true,
       ),
-      home: const LoginScreen(),
+      home: const AuthGate(),
     );
   }
 }
