@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525978853808",
+    "project_id": "paracare-dev",
+    "storage_bucket": "paracare-dev.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525978853808:android:e93577c7a57904763f7675",
+        "android_client_info": {
+          "package_name": "com.paracare.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7zKvc_I-QFDw1LMJjWao8Zho-OgLwjpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
